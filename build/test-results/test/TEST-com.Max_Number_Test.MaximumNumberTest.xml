@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.Max_Number_Test.MaximumNumberTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-06T21:13:32" hostname="kali" time="0.006">
+  <properties/>
+  <testcase name="stringMaxString_AtFirst_Position" classname="com.Max_Number_Test.MaximumNumberTest" time="0.006"/>
+  <system-out><![CDATA[Maximum Value :Peach
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
